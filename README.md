@@ -59,7 +59,7 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 ## faQ
 
 - How long the links will remain valid or is there any expiration time for the links generated b the bot?
-> The links will will be valid as longs as your bot is alive and you haven't deleted the log channel.
+> The links will be valid as longs as your bot is alive and you haven't deleted the log channel.
 
 ## Contributing
 
