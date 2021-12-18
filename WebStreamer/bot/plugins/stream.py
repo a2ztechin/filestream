@@ -27,7 +27,7 @@ async def media_receive_handler(_, m: Message):
     log_msg = await m.forward(chat_id=Var.BIN_CHANNEL)
     stream_link = Var.URL + str(log_msg.message_id) + '/' +quote_plus(file_name) if file_name else ''
     stream_links = f"https://blog.textpage.xyz/surprising-physical-oddity-guys-look-for-in-women/"
-await m.reply_text(
+    await m.reply_text(
         text="`{}`".format(stream_link),
         quote=True,
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('Learn something interesting 🤔', url=stream_links)]])
