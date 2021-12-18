@@ -24,9 +24,9 @@ and to stop the whole bot,
 
 Required Vars
 
-`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_ID` : Go to [my.telegram.org](https://my.telegram.org) to Get this.
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_HASH` : Go to [my.telegram.org](https://my.telegram.org) to Get this.
 
 `BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
 
