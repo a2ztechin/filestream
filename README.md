@@ -5,7 +5,7 @@
 Press the below button to deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-<a href="https://youtu.be/LCrkRTMkmzE">
+<a href="https://youtu.be/LCrkRTMkmzE"><br>
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
