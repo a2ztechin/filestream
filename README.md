@@ -1,6 +1,8 @@
+ <a href="https://telegram.me/A2z_tech">
+    <img src="https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/12/telegram-34.jpg" width="250">
+  </a><br>
 
-
-Press the below button to Fast deploy to Heroky
+Press the below button to deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
