@@ -1,5 +1,4 @@
-# This file is a part of TG-FileStreamBot
-# Coding : Jyothis Jayanth [@EverythingSuckz]
+
 
 from pyrogram import Client
 from ..vars import Var
