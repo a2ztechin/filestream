@@ -1,5 +1,4 @@
-# This file is a part of TG-FileStreamBot
-# Coding : Jyothis Jayanth [@EverythingSuckz]
+
 
 from os import getenv, environ
 from dotenv import load_dotenv
