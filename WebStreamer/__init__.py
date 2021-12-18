@@ -1,12 +1,11 @@
-# This file is a part of TG-FileStreamBot
-# Coding : Jyothis Jayanth [@EverythingSuckz]
+
 
 
 import time
 from WebStreamer.bot import StreamBot
 
 print('\n')
-print('------------------- Initalizing Telegram Bot -------------------')
+print('------------------- loading Telegram Bot -------------------')
 
 StreamBot.start()
 bot_info = StreamBot.get_me()
