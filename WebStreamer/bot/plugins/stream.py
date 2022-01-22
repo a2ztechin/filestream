@@ -28,7 +28,7 @@ async def media_receive_handler(_, m: Message):
     stream_link = Var.URL + str(log_msg.message_id) + '/' +quote_plus(file_name) if file_name else ''
     stream_links = f"https://1.url2go.in/intresting"
     await m.reply_text(
-        text=f"https://stream.shorturllink.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url={stream_link}",
+        text=f"https://playdisk.xyz/st?api=b4d7c1c25bcd6ea64cf7f653179d83b6c9d11221&url={stream_link}",
         quote=True,
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('Learn something interesting 🤔', url=stream_links)]])
     )
